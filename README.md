@@ -2,7 +2,8 @@
 General purpose library in .net Standard 2.0 
 
 ## Features included
-#### this is to be added
+* Generic Repository for Microsoft Entity Framework Core 2.0
+### More to come
 
 ## Features To be Added
 * Timer functionality
